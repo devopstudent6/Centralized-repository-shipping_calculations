@@ -1,4 +1,3 @@
-# Here is another update by devopstudents6
 # Here is a new update by devopstudents6
 # Shipping Cost Calculator
 
